@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spring-cloud-beratyesbek",
+  "private_key_id": "49aadbbf66b830c74501120f26a1b2802fb26aa3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCx8ShjdWj8rB+3\nC07gkSTp6a5dNlnpb3BbghOPUTbqi/et6rOJ15+ctWXIA4PFT99KNZlgecWxJA7O\nDbbLu2DWgBcq5ma5iFeYKz5wDGnKwDfaYxWZreYj/Dde8QcbCnJLxjyIWoE5Kbtz\nWrvzN09nuXZwbrdyDb0WaSNI3xFYKXccnZrcO7v+yo3gYKLk35nxKEMLF7ggfyUQ\njXWGcu+QoqHFJ0i/Ag0TH5ph0HBN3HLLEPYLQHf9pGU7hLubVdzWO/+Bkbacg/V9\nlIN5TjJtUKjgx0m2rLT1ybc/8n2npVrfadlzgHf8yxKTq53asCQnsS33n9ZdxV+S\nzOYHAb7vAgMBAAECggEARAVgf5in0AMKQqIvflftqP9b2KUIvNwNMuXoDT6qBAIK\nZbDU/gnvqWuMY2e4jQop3MfdgEw8fqk+gZUrffj8nTKs6IjX1u+gMHrDbPjJzigp\nkbGT1cHsum/VSNVRdoxJQd8fT65tPIlP71pNg71ufMOgW31vYcmPsUvyoY4oJq9a\n+gwAB7wIBLfZaHZJYXVgFVszNNhpuJ1yit5K4eb6v8pzDTkRAwI9DImfGlSGinLC\nj2kl7B/Unb0jo6Ukgtb+ieyqUCxf1B2A20auw49v/c97W5ifSayTTYlGitTIdd15\n0NZPUI+UJjmexLxY0f8xjI8i8UK5yDkPTlevgSc0hQKBgQDugxULfR8UyKdgwZvL\nVsHB4JX/ljWaEd+YKea6c8fuUq4HvsPRV6tHSBPvjoVsNjSO9kn5ZdkUCBl+0Jh4\nBqwRWYjL77oQNC/8OBGqsrwQJ9vVqKjrEk0jr6iaOzdNJg1SelChGur9gbccC8FA\nU/eMbFC1cG3m+Icu++vuxVdgpQKBgQC+/SoZXD1pRjujXbAF+bhmJWTSLbCBdnpI\nIdAvT9unXf+wvS/TGqVwgaJC+D9AKt+yzQTwQin24CHS9WrB+VoCfo12Qe51MfT2\nRk7Ju0MP8RuQfHnL0a25ZqjGHnFeJVTRiJImXioQaMIsgwekEQIpHmcfgVaO1f2m\nMhAPPwWZAwKBgQDFn7sqP8wnDnMRSppqC0KUACCJG87iD/kyPVW+G/0GzV8Bb+EU\nbg2vDFvoXDDVDrzRz+RPT0JkxKlLWE9c9DpSTdt5DvMeRf+Ufmi1BU+qGzyddhgw\nXoOoE/4hfPs/Y04ajtqMAp++2WH9TQgc4vX0VjMxgyys+jQYjAhbWQwjOQKBgHej\n46FrVNUDuAxIfiHgIxFpz1SSZoVTEJrrA5z/q5uWmLvAZ5sYkBaAPoMxO34Y3XUG\nVVekOuF52fZq4muMpkP1vuwbtSMZHljABk78za/I2/mQ4EM7oFYJ5yPkoiPVwuJX\naSY7yqHo3epAUqMGPJJBh1wHC5ACoRhhOAo08m69AoGAMFgNNo93DfidVVwYTvGx\n+fpZsxxh52vUV88JvTNwa3Lu+I+4zqnLrPSydh44RkXgrwHjoq995+PLZS87VK8q\n7yFX3FOg2mz2n/0tnQtA34+EwnWXWQ5yeCrkBj5KQVdvQ7OXQGuJ4YY7vc8Y4Gn1\nGhnetvdK8xKmfQYK9DlpRa4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsub-service-account@spring-cloud-beratyesbek.iam.gserviceaccount.com",
+  "client_id": "115572417833801700007",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsub-service-account%40spring-cloud-beratyesbek.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
