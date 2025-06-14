@@ -1,4 +1,4 @@
-package com.beratyesbek.springcloudgcpnotificationservice;
+package com.beratyesbek.springcloudgcporderservice;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
