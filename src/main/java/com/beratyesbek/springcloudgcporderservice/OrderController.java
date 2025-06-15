@@ -24,7 +24,7 @@ public class OrderController {
         try {
             order.setId(UUID.randomUUID().toString());
             String orderJson = objectMapper.writeValueAsString(order);
-            pubSubTemplate.publish("order-subscription", orderJson);
+            pubSubTemplate.publish("order-notifcation", orderJson);
             return ResponseEntity.ok(order);
         }catch (Exception e) {
             return ResponseEntity.badRequest().build();
